@@ -13,7 +13,7 @@ function allFiles(uri, regex) {
             return []
         }
 
-        return [fs.readFileSync(uri)]
+        return [uri]
     }
 
     var files = fs.readdirSync(uri)
