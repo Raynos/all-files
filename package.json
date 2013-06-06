@@ -1,6 +1,6 @@
 {
   "name": "all-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find all files in directory recursively synchronously",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
